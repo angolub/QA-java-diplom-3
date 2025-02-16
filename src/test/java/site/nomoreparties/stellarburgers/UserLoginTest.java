@@ -4,7 +4,6 @@ import io.qameta.allure.Step;
 import org.assertj.core.api.SoftAssertions;
 import org.junit.Before;
 import org.junit.Test;
-import site.nomoreparties.stellarburgers.pageobject.LoginPage;
 import site.nomoreparties.stellarburgers.pageobject.MainPage;
 import site.nomoreparties.stellarburgers.services.APIUserService;
 
